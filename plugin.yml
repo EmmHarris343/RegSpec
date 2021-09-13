@@ -1,0 +1,13 @@
+name: RegSpec
+main: net.yarr.regspec.RegSpec
+version: 1.0
+description: Region Specific Permissions
+softdepend: 
+- WorldGuard
+- Vault
+commands:
+   rspec:
+      description: Assign a region enter / exit Permission or Group.
+      usage: Incorrect Syntax type /rspec help - For more command infomration
+      permission: RegSpec.rspec
+      permission-message: You don't have the Permission to use this command!

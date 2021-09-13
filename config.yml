@@ -1,0 +1,15 @@
+# Enable debug info in console
+debug-mode: false
+# Enable colors in console output
+color-logs: true
+# Send Players Messages on Give / Remove Permissions / Groups
+player-send: true
+# Enable Mysql Database
+use-mysql: false
+# Database information:
+sql:
+  host: localhost
+  port: '0'
+  username: 0
+  password: 0
+  database: 0

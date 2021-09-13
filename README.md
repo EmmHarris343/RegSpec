@@ -8,4 +8,4 @@ This used zones declared in worldguard, and took the flags of the zone. It was o
 
 Another example would be, you have a surivival based world. But at the spawn you could fly to see the super fancy looking starting Zone. Once you left the starting zone area it would drop the flying permission. 
 
-I finished the plugin, it worked well but sadly the server died I was working on this addon for. *sadface
+I finished the plugin, it worked well but sadly the server died I was working on this addon for. So I didn't 100% finilize it, remove comments etc.
